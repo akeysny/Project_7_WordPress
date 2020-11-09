@@ -11,7 +11,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [<img src="http://g.recordit.co/CwYanI8pQY.gif" width=250><br>] GIF Walkthrough: 
+  - <img src="http://g.recordit.co/CwYanI8pQY.gif" width=250><br> GIF Walkthrough: 
   - [ ] Steps to recreate: Leave a comment with a button javascript, after we post it- we get a Button as out comment, so victim clicks on it and weird stuff will pop up.
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -20,7 +20,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [<img src="http://g.recordit.co/zU5B75JSqB.gif" width=250><br> ] GIF Walkthrough: 
+  - <img src="http://g.recordit.co/zU5B75JSqB.gif" width=250><br> GIF Walkthrough: 
   - [ ] Steps to recreate: We leave an URL in the post, sort of like HTTP, every time the page loads- it cannot pop out an alert.
   - [ ] Affected source code: 
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -29,7 +29,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types: Cross Site 
     - Tested in version: 4.2
     - Fixed in version: 4.2.3 Stored XSS
-  - [<img src="http://g.recordit.co/jDhPM4VzCo.gif" width=250><br>] GIF Walkthrough: 
+  - <img src="http://g.recordit.co/jDhPM4VzCo.gif" width=250><br> GIF Walkthrough: 
   - [ ] Steps to recreate: Post malicious script in the comment section, after admin has approved your comment- no auth is needed afterwards.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -39,7 +39,7 @@ Time spent: **30** hours spent in total
      <a href="</a><a title=" onmouseover=alert('test')  ">link</a>
     - Tested in version: 4.2
     - Fixed in version: The bug was corrected on July 23, 2015. It has been patched automatically for most users.
-  - [<img src="http://g.recordit.co/Pt3D6BaBmN.gif" width=250><br> ] GIF Walkthrough: 
+  - <img src="http://g.recordit.co/Pt3D6BaBmN.gif" width=250><br> GIF Walkthrough: 
   - [ ] Steps to recreate: Post malicious script in the comment section, after admin has approved your comment- no auth is needed afterwards.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -48,7 +48,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types:
     - Tested in version: 4.2
     - Fixed in version: 
-  - [ <img src="http://g.recordit.co/K4eoNdeV1T.gif" width=250><br>] GIF Walkthrough: 
+  - <img src="http://g.recordit.co/K4eoNdeV1T.gif" width=250><br> GIF Walkthrough: 
   - [ ] Steps to recreate: Create a new post using malicious script 
    abc<img src=a onerror=alert('antistore'). Try publishing the post and everytime you would have to click on the pop up in order to comment or do anything else on the site.
   - [ ] Affected source code:
