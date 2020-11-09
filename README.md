@@ -48,7 +48,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types:
     - Tested in version: 4.2
     - Fixed in version: 
-  - [ <img src="http://g.recordit.co/cHYjzhs3qG.gif" width=250><br>] GIF Walkthrough: 
+  - [ <img src="http://g.recordit.co/K4eoNdeV1T.gif" width=250><br>] GIF Walkthrough: 
   - [ ] Steps to recreate: Create a new post using malicious script 
    abc<img src=a onerror=alert('antistore'). Try publishing the post and everytime you would have to click on the pop up in order to comment or do anything else on the site.
   - [ ] Affected source code:
